@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: Learn Spring Config Properties
+    version: 3
+    production-mode: true
