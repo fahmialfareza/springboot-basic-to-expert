@@ -1,0 +1,2 @@
+2025-07-28T20:29:02.588+07:00  WARN 38739 --- [learn-spring-logging] [main] c.f.learn_spring_logging.LoggingTest     : Learn Spring
+2025-07-28T20:29:02.588+07:00 ERROR 38739 --- [learn-spring-logging] [main] c.f.learn_spring_logging.LoggingTest     : Learn Programmer Zaman Now
